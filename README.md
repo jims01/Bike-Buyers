@@ -35,3 +35,6 @@ Key questions addressed during the analysis include:
 The result is presented in a dashboard created in excel
 ![Dashboard](https://github.com/user-attachments/assets/de12288e-288e-4714-9218-512d3e4dc49e)
 
+### Reference
+- Alextheanalyst
+- Kaggle[Click here](https://www.kaggle.com/)
